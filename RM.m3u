@@ -447,4 +447,5 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/niOry0C.png"group-title="News" , Euronews 
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/gemBEjE.png"group-title="V0D" , the matrix
+https://bqzx.mcloud.to/12a3d521fb0e505df6db255ecef8ae19d373f70b15a7fdb14a5a30e4e779d8c06543d410187e77f5b86e9e5fed14fc88fadbdd1b8f7dd4ecd6ecf56c0423a292679946f30c1bbd5e4592a2bd7c45224632338334160c3397cc85b50cd4a22a9f6613a340443def259bf83d14b75340cfa37cc1a92d5802ef9ec58551dfadfafa851599/r/hls/720/720.m3u8
