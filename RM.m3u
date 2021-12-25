@@ -453,3 +453,9 @@ https://live.bdtv.xyz:2096/v3/Bmovie/Aynabaji.mp4/chunk.m3u8?nimblesessionid=275
 http://103.195.1.50/Data/disk4/Movies/tv%20series/The%20Tower/The.Tower.2021.S01E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb_x264.mp4
 #EXTINF:-1 tvg-logo=""group-title="VOD" , Drushyam.2
 http://103.195.1.50/Data/disk4/Movies/Bollywood/Drushyam%202%20(2021)/Drushyam.2.2021.720p.AMZN.WEB-DL.DDP5.1.H.264-P0llUx12_x264.mp4
+#EXTINF:-1 tvg-logo="" group-title="VOD", PUSHPA
+http://candybd.net/upload/source/movies/TAMIL/2021/Pushpa.The.Rise-Part.1.2021.1080p.Hindi.V2.HDCAMRip.x264.mkv
+#EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" group-title="News", ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" group-title="News", CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
