@@ -449,3 +449,5 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DfjHOge.png"group-title="VOD" , AYNABAZI
 https://live.bdtv.xyz:2096/v3/Bmovie/Aynabaji.mp4/chunk.m3u8?nimblesessionid=2756179
+#EXTINF:-1 tvg-logo=""group-title="VOD" , The Tower Season 1
+http://103.195.1.50/Data/disk4/Movies/tv%20series/The%20Tower/The.Tower.2021.S01E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb_x264.mp4
